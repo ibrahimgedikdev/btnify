@@ -40,7 +40,7 @@ class Example extends Component {
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;">variants</td>
+<td style="text-align:left;">variant</td>
 <td style="text-align:center;"><code>string</code></td>
 <td style="text-align:center;"><code>primary</code></td>
 <td style="text-align:left;">Render a specific button type</td>
